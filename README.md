@@ -1,2 +1,2 @@
 # GUImatlabTZTQ
-特征提取gui毕设用
+There should be something about feature capture, but has been delete because of some reasons.
